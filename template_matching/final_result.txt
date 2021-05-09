@@ -1,0 +1,1 @@
+method: 2 avererage num of search: 7.989473684210527 for p=10
